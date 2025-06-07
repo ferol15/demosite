@@ -1,0 +1,75 @@
+project:
+  type: website
+  output-dir: docs
+
+render:
+    - "*.qmd"
+
+resources:
+    - "files/**"
+    
+website:
+  title: "Fatih Erol"
+  site-url: "https://ferol15.github.io/demosite/"
+  site-path: "/demosite/"
+  repo-url: "https://github.com/ferol15/demosite"
+  
+  navbar:
+    pinned: true 
+    
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: https://www.dropbox.com/scl/fi/dmtnkbe3kayq0z76vs9cd/Erol_CV.pdf?rlkey=1lx61015107pcvnujd35zgujr&st=ugmisfb1&dl=0
+        target: _blank
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Personal"
+        href: personal.qmd
+    
+    right: 
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: mailto:fatih.erol@yeditepe.edu.tr
+      - text: "{{< iconify mdi twitter size=1.2em title='X (Twitter)' >}}"
+        href: https://x.com/fatiherol_pols
+        target: _blank
+      - text: "{{< iconify ph butterfly-bold size=1.2em title='Bluesky' >}}"
+        href: https://bsky.app/profile/fatiherol.bsky.social
+        rel: me
+        target: _blank
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-0123-0321
+        target: _blank
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?hl=en&user=slPu75UAAAAJ
+        target: _blank
+      - text: "{{< iconify simple-icons linkedin size=1.2em title='LinkedIn' >}}"
+        href: https://linkedin.com/in/fatih-erol-pols
+        target: _blank
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/ferol15
+        rel: me
+        target: _blank
+  
+  page-footer:
+    left: |
+      <span>{{< fa brands orcid >}} <strong>ORCID</strong> <a href="https://orcid.org/0000-0002-0123-0321" target=_blank>0000-0002-0123-0321</a> </span>
+    center: |
+      Copyright 2025 Fatih Erol\
+      All rights reserved.
+    right: |
+      <span>Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+  
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: false
+
+
+

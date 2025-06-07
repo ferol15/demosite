@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+toc: true 
+link-external-newwindow: true
+---
+
+## Teaching Statement
+
+My teaching focuses on helping students develop a scientific approach to politics across all course levels. This involves three key elements: First, I emphasize scientific literacy by distinguishing social science from journalistic and rhetorical approaches—showing how we seek systematic patterns rather than explaining single events or advocating positions. Second, I demonstrate the value of scientific methods both for deepening understanding and informing effective public policy. Finally, I guide students in conducting their own research, both individually and collaboratively, transforming them from consumers to creators of political knowledge.
+Through interactive learning experiences, hands-on research projects, and real-world applications, I help students build analytical skills that serve them beyond the classroom while maintaining an inclusive environment where students from all backgrounds can engage meaningfully with quantitative methods.
+
+## List of Courses
+
+##### At <a href="https://sgpp.arizona.edu" target="_blank"> **the University of Arizona** </a> (as a Research Social Scientist)
+
+- <a href="https://www.dropbox.com/scl/fi/ng1mtdsy7hboavl5ebhx8/POL-397B-Spring-2025-Syllabus.pdf?rlkey=itwwlp2wuehjjbndmwdbvd0wm&st=9j8v1x2l&dl=0" target="_blank"> **POL/SOC 297B/397B The Origins of Data in Politics and Policy** </a> (Undergraduate)
+    - Spring 2024, Spring 2025
+
+##### At <a href="https://iibf.yeditepe.edu.tr/en/political-science-and-international-relations-department-en" target="_blank"> **Yeditepe University** </a> (as an Assistant Professor)
+
+- <a href="https://www.dropbox.com/scl/fi/9axi8yxta4qkb9pvfqjpk/POLS-624-Syllabus.pdf?rlkey=q73cdbopv1fs1v7xoee8b65bo&st=h4sso0ba&dl=0" target="_blank"> **POLS 624 Quantitative Methods and Statistics** </a> (Graduate)
+    - Spring 2023
+    
+- <a href="https://www.dropbox.com/scl/fi/r1be8tz5zzg5kuujfjyoy/PSIR_480.pdf?rlkey=jaekplrt8unqipzz2sxt4bfkn&st=3s3uwu9z&dl=0" target="_blank"> **PSIR 480 Applied Research in Political Science** </a> (Undergraduate)
+    - Spring 2023
+    
+- <a href="https://www.dropbox.com/scl/fi/5484hl78dsap4nr3sl3wj/RSCH-410-Syllabus.pdf?rlkey=tbij7sma2wwasvfl92igtffln&st=7f7vka3n&dl=0" target="_blank"> **RSCH 410 Scientific Research Methods** </a> (Undergraduate; Service-course)
+    - Fall 2022, Spring 2023
+
+- <a href="https://www.dropbox.com/scl/fi/kjmq5tu48qea3fqwecpn5/PSIR_101-Syllabus.pdf?rlkey=aem3kt3jwhnnacbeteh5ze4er&st=llqzkgq6&dl=0" target="_blank"> **PSIR 101 Introduction to Political Science** </a> (Undergraduate)
+    - Fall 2022, Spring 2023
+
+##### At <a href="https://iibf.yeditepe.edu.tr/en/political-science-and-international-relations-department-en" target="_blank"> **Istanbul Bilgi University** </a> (as an Adjunct Lecturer)
+
+- <a href="https://www.dropbox.com/scl/fi/6nhokohtpx8cd8i2d4ioa/IR-408-Syllabus.pdf?rlkey=3m6jch5rzxsbcwhipfv5dvqq8&st=0edx214i&dl=0" target="_blank"> **IR 408 Elections and Party Politics** </a> (Undergraduate)
+    - Fall 2021
