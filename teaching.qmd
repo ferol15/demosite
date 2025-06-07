@@ -34,3 +34,13 @@ Through interactive learning experiences, hands-on research projects, and real-w
 
 - <a href="https://www.dropbox.com/scl/fi/6nhokohtpx8cd8i2d4ioa/IR-408-Syllabus.pdf?rlkey=3m6jch5rzxsbcwhipfv5dvqq8&st=0edx214i&dl=0" target="_blank"> **IR 408 Elections and Party Politics** </a> (Undergraduate)
     - Fall 2021
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C9REN6Q65E');
+</script>

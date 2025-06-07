@@ -16,3 +16,13 @@ My methodological expertise extends to **experimental research**, **survey metho
 
 I have extensive experience with **<i>R</i>** and **Stata**. I am comfortable programming advanced experiments and surveys in **Qualtrics** using **JavaScript** (including choice-based conjoint experiments and implicit association tests), creating interactive data analysis and visualization dashboards with **<i>R</i> Shiny**, and employing **Python** through **PsychoPy** for experimental programming. I have also utilized **Unix** and **FSL** for neuroimaging data analysis in interdisciplinary research projects.\
 :::
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C9REN6Q65E');
+</script>

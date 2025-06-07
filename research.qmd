@@ -106,3 +106,12 @@ This study examines how political parties in Turkey have embraced populism from 
 Different political traditions have defined "the people" distinctly: center-right parties like the Democratic Party emphasized "people as sovereigns," the CHP in the 1970s focused on "common people" oppressed by economic elites, while Milli Görüş parties promoted "people as Islamic nation." The AK Party has synthesized these approaches, positioning itself as defender of Turkey's authentic people and oppressed Muslims globally. Elite definitions have similarly evolved based on parties' ideological positions and power status—from economic exploiters to civil-military bureaucracy to foreign powers and domestic collaborators. This historical pervasiveness across the ideological spectrum suggests that populist turns can emerge from various political crises, offering insights for understanding populism beyond Western European contexts and enriching comparative populism literature.
 </details> 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C9REN6Q65E');
+</script>
