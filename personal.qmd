@@ -10,8 +10,7 @@ about:
   
 ---
 ::: {#ppc2}
-I am happily married to <a href="https://emineari.com" target="_blank"> Emine Arı</a>. Emine is a Research Associate and Adjunct Instructor at <a href="https://sgpp.arizona.edu" target="_blank"> the University of Arizona </a>. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior.
-If I happen to have sparse time, I enjoy angling and cycling.
+I am happily married to <a href="https://emineari.com" target="_blank"> Emine Arı</a>. Emine is a Research Associate and Adjunct Instructor at <a href="https://sgpp.arizona.edu" target="_blank"> the University of Arizona</a>. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior. If I happen to have sparse time, I enjoy angling and cycling.
 :::
 
 <!-- Google tag (gtag.js) -->
