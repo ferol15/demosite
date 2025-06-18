@@ -37,7 +37,7 @@ Through interactive learning experiences, hands-on research projects, and real-w
     
 ## Teaching Tools
 
-To support hands-on learning, I have been developing <a href="https://ferol.shinyapps.io/pol397b-shiny-app/" target="_blank">interactive web applications</a> (though being experimental in its current phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods more accessible across different technical backgrounds.
+To support hands-on learning, I have been developing <a href="https://ferol.shinyapps.io/pol397b-shiny-app/" target="_blank">interactive web applications</a> (though currently in an experimental phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods more accessible across different technical backgrounds.
     
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
