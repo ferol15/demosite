@@ -7,6 +7,34 @@
     "text": "I am happily married to  Emine Arı. Emine is a Research Associate and Adjunct Instructor at  the University of Arizona. Emine’s research covers state of emergency, domestic and international conflicts, and electoral behavior. If I happen to have sparse time, I enjoy angling and cycling."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fatih Erol",
+    "section": "",
+    "text": "I am a Research Social Scientist and Lab Manager at  the Arizona Policy Lab in the School of Government and Public Policy at the University of Arizona. I am also an (on-leave) Assistant Professor at  the Department of Political Science and International Relations at Yeditepe University.\nMy research spans several interconnected domains that bridge biological and political science. My work on chronobiology investigates how sleep patterns and circadian rhythms align with political ideology and civic participation across multiple countries and over time, connecting fundamental biological processes to political outcomes. Additionally, my research examines the alignment between existential threats and ideological orientation, as well as the connections between polarization and democratic attitudes.\nMy methodological expertise extends to experimental research, survey methodology, advanced regression modeling (multilevel modeling [with post-stratification], structural equation modeling, categorical data analysis, and several quasi-experimental designs), and text-as-data approaches, along with hands-on experience with physiological data collection and analysis (such as skin conductance and functional magnetic resonance imaging).\n\nI have extensive experience with R and Stata. I am comfortable programming advanced experiments and surveys in Qualtrics using JavaScript (including choice-based conjoint experiments and implicit association tests), creating interactive data analysis and visualization dashboards with R Shiny, and employing Python through PsychoPy for experimental programming. I have also utilized Unix and FSL for neuroimaging data analysis in interdisciplinary research projects."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching focuses on helping students develop a scientific approach to politics across all course levels. This involves three key elements: First, I emphasize scientific literacy by distinguishing social science from journalistic and rhetorical approaches, showing how we seek systematic patterns rather than explaining single events or advocating positions. Second, I demonstrate the value of scientific methods both for deepening understanding and informing effective public policy. Finally, I guide students in conducting their own research, both individually and collaboratively, transforming them from consumers to creators of political knowledge. Through interactive learning experiences, hands-on research projects, and real-world applications, I help students build analytical skills that serve them beyond the classroom while maintaining an inclusive environment where students from all backgrounds can engage meaningfully with quantitative methods."
+  },
+  {
+    "objectID": "teaching.html#teaching-statement",
+    "href": "teaching.html#teaching-statement",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching focuses on helping students develop a scientific approach to politics across all course levels. This involves three key elements: First, I emphasize scientific literacy by distinguishing social science from journalistic and rhetorical approaches, showing how we seek systematic patterns rather than explaining single events or advocating positions. Second, I demonstrate the value of scientific methods both for deepening understanding and informing effective public policy. Finally, I guide students in conducting their own research, both individually and collaboratively, transforming them from consumers to creators of political knowledge. Through interactive learning experiences, hands-on research projects, and real-world applications, I help students build analytical skills that serve them beyond the classroom while maintaining an inclusive environment where students from all backgrounds can engage meaningfully with quantitative methods."
+  },
+  {
+    "objectID": "teaching.html#list-of-courses",
+    "href": "teaching.html#list-of-courses",
+    "title": "Teaching",
+    "section": "List of Courses",
+    "text": "List of Courses\n\nAt  the University of Arizona  (as a Research Social Scientist)\n\n POL/SOC 297B/397B The Origins of Data in Politics and Policy  (Undergraduate)\n\nSpring 2024, Spring 2025\n\n\n\n\nAt  Yeditepe University  (as an Assistant Professor)\n\n POLS 624 Quantitative Methods and Statistics  (Graduate)\n\nSpring 2023\n\n PSIR 480 Applied Research in Political Science  (Undergraduate)\n\nSpring 2023\n\n RSCH 410 Scientific Research Methods  (Undergraduate; Service-course)\n\nFall 2022, Spring 2023\n\n PSIR 101 Introduction to Political Science  (Undergraduate)\n\nFall 2022, Spring 2023\n\n\n\n\nAt  Istanbul Bilgi University  (as an Adjunct Lecturer)\n\n IR 408 Elections and Party Politics  (Undergraduate)\n\nFall 2021"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -56,38 +84,17 @@
     "text": "Other Works in Turkish\n[1] Çarkoğlu, A., Elçi, E., Erol, F., & Paksoy, C. (2022). Popülizm teorileri ışığında Türkiye’de popülizmin tarihsel gelişimi: Siyasi partiler üzerine bir inceleme [The historical development of populism in Turkey in the light of populism theories: An analysis on political parties]. Anadolu Üniversitesi Sosyal Bilimler Dergisi [Anadolu University Journal of Social Sciences]. DOI: 10.18037/ausbd.1095197\n\n\nAbstract\n\nThis study examines how political parties in Turkey have embraced populism from the late Ottoman Empire to present day, challenging the notion that populism belongs to any single party or ideology. Through comparative historical analysis, we trace three key dimensions of populism—people-centrism, anti-elitism, and appeals to popular will—across Turkey’s political spectrum. Our research reveals that Russian populism (Narodism) initially inspired late 19th-century Ottoman intellectuals, particularly the Committee of Union and Progress, who cultivated peasant populism in Turkey. The founders of the Turkish Republic later institutionalized these ideas through the Republican People’s Party (CHP), making populism a defining feature of Turkish politics that persisted through democratic transition. Different political traditions have defined “the people” distinctly: center-right parties like the Democratic Party emphasized “people as sovereigns,” the CHP in the 1970s focused on “common people” oppressed by economic elites, while Milli Görüş parties promoted “people as Islamic nation.” The AK Party has synthesized these approaches, positioning itself as defender of Turkey’s authentic people and oppressed Muslims globally. Elite definitions have similarly evolved based on parties’ ideological positions and power status—from economic exploiters to civil-military bureaucracy to foreign powers and domestic collaborators. This historical pervasiveness across the ideological spectrum suggests that populist turns can emerge from various political crises, offering insights for understanding populism beyond Western European contexts and enriching comparative populism literature."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "programming.html",
+    "href": "programming.html",
+    "title": "Programming",
     "section": "",
-    "text": "My teaching focuses on helping students develop a scientific approach to politics across all course levels. This involves three key elements: First, I emphasize scientific literacy by distinguishing social science from journalistic and rhetorical approaches, showing how we seek systematic patterns rather than explaining single events or advocating positions. Second, I demonstrate the value of scientific methods both for deepening understanding and informing effective public policy. Finally, I guide students in conducting their own research, both individually and collaboratively, transforming them from consumers to creators of political knowledge. Through interactive learning experiences, hands-on research projects, and real-world applications, I help students build analytical skills that serve them beyond the classroom while maintaining an inclusive environment where students from all backgrounds can engage meaningfully with quantitative methods."
+    "text": "To support hands-on learning, I have been developing interactive web applications (though currently in an experimental phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods more accessible across different technical backgrounds."
   },
   {
-    "objectID": "teaching.html#teaching-statement",
-    "href": "teaching.html#teaching-statement",
-    "title": "Teaching",
+    "objectID": "programming.html#teaching-tools",
+    "href": "programming.html#teaching-tools",
+    "title": "Programming",
     "section": "",
-    "text": "My teaching focuses on helping students develop a scientific approach to politics across all course levels. This involves three key elements: First, I emphasize scientific literacy by distinguishing social science from journalistic and rhetorical approaches, showing how we seek systematic patterns rather than explaining single events or advocating positions. Second, I demonstrate the value of scientific methods both for deepening understanding and informing effective public policy. Finally, I guide students in conducting their own research, both individually and collaboratively, transforming them from consumers to creators of political knowledge. Through interactive learning experiences, hands-on research projects, and real-world applications, I help students build analytical skills that serve them beyond the classroom while maintaining an inclusive environment where students from all backgrounds can engage meaningfully with quantitative methods."
-  },
-  {
-    "objectID": "teaching.html#list-of-courses",
-    "href": "teaching.html#list-of-courses",
-    "title": "Teaching",
-    "section": "List of Courses",
-    "text": "List of Courses\n\nAt  the University of Arizona  (as a Research Social Scientist)\n\n POL/SOC 297B/397B The Origins of Data in Politics and Policy  (Undergraduate)\n\nSpring 2024, Spring 2025\n\n\n\n\nAt  Yeditepe University  (as an Assistant Professor)\n\n POLS 624 Quantitative Methods and Statistics  (Graduate)\n\nSpring 2023\n\n PSIR 480 Applied Research in Political Science  (Undergraduate)\n\nSpring 2023\n\n RSCH 410 Scientific Research Methods  (Undergraduate; Service-course)\n\nFall 2022, Spring 2023\n\n PSIR 101 Introduction to Political Science  (Undergraduate)\n\nFall 2022, Spring 2023\n\n\n\n\nAt  Istanbul Bilgi University  (as an Adjunct Lecturer)\n\n IR 408 Elections and Party Politics  (Undergraduate)\n\nFall 2021"
-  },
-  {
-    "objectID": "teaching.html#teaching-tools",
-    "href": "teaching.html#teaching-tools",
-    "title": "Teaching",
-    "section": "Teaching Tools",
-    "text": "Teaching Tools\nTo support hands-on learning, I have been developing interactive web applications (though currently in an experimental phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods more accessible across different technical backgrounds."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fatih Erol",
-    "section": "",
-    "text": "I am a Research Social Scientist and Lab Manager at  the Arizona Policy Lab in the School of Government and Public Policy at the University of Arizona. I am also an (on-leave) Assistant Professor at  the Department of Political Science and International Relations at Yeditepe University.\nMy research spans several interconnected domains that bridge biological and political science. My work on chronobiology investigates how sleep patterns and circadian rhythms align with political ideology and civic participation across multiple countries and over time, connecting fundamental biological processes to political outcomes. Additionally, my research examines the alignment between existential threats and ideological orientation, as well as the connections between polarization and democratic attitudes.\nMy methodological expertise extends to experimental research, survey methodology, advanced regression modeling (multilevel modeling [with post-stratification], structural equation modeling, categorical data analysis, and several quasi-experimental designs), and text-as-data approaches, along with hands-on experience with physiological data collection and analysis (such as skin conductance and functional magnetic resonance imaging).\n\nI have extensive experience with R and Stata. I am comfortable programming advanced experiments and surveys in Qualtrics using JavaScript (including choice-based conjoint experiments and implicit association tests), creating interactive data analysis and visualization dashboards with R Shiny, and employing Python through PsychoPy for experimental programming. I have also utilized Unix and FSL for neuroimaging data analysis in interdisciplinary research projects."
+    "text": "To support hands-on learning, I have been developing interactive web applications (though currently in an experimental phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods more accessible across different technical backgrounds."
   }
 ]
