@@ -6,7 +6,20 @@ link-external-newwindow: true
 
 ## Teaching Tools
 
-To support hands-on learning, I have been developing <a href="https://fatiherol-erol-app.hf.space/" target="_blank">interactive web applications</a> (though currently in an experimental phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods more accessible across different technical backgrounds.
+To support hands-on learning, I have been developing an interactive web application, named  <a href="https://fatiherol-erol-app.hf.space/" target="_blank">**E**xperimental **R**esearch & **O**bservational **L**earning (**EROL**) Application</a>, (though currently in an experimental phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods in political science more accessible across different technical backgrounds.
+
+### Network Access Information
+
+The <a href="https://fatiherol-erol-app.hf.space/" target="_blank">**EROL.app**</a> is currently hosted on <a href="https://huggingface.co/spaces" target="_blank">Hugging Face Spaces</a>. Please note that some institutional networks may restrict access to external platforms such as Hugging Face domains or non-standard ports. If you experience such connection issues while trying to access the application:
+
+**University/School Networks:**
+
+- Contact your IT department and request access to `huggingface.co` and `hf.space` domains for educational purposes.
+- Emphasize that this is a statistical analysis tool for academic research and coursework.
+
+**For IT Departments:**
+This application is an educational tool for statistical analysis in political science coursework, hosted on Hugging Face Spaces (a legitimate academic platform). The application uses port 7860 and requires access to `*.hf.space` domains.
+
     
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
