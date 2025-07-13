@@ -20,6 +20,26 @@ The <a href="https://fatiherol-erol-app.hf.space/" target="_blank">**EROL.app**<
 **For IT Departments:**
 This application is an educational tool for statistical analysis in political science coursework, hosted on Hugging Face Spaces (a legitimate academic platform). The application uses port 7860 and requires access to `*.hf.space` domains.
 
+### Performance and Local Installation
+
+**Server Performance:** The hosted application may experience slower performance or occasional lag due to shared server resources. For a more responsive experience, users can run the application locally using one of the following methods:
+
+**Option 1: Docker (Recommended)**
+```bash
+docker run -it -p 7860:7860 --platform=linux/amd64 \
+    registry.hf.space/fatiherol-erol-app:latest
+```
+After running this command, access the application at `http://localhost:7860`
+
+**Option 2: Run from Source Code**
+
+- Clone the repository: `git clone https://github.com/ferol15/EROL.app.git`
+- Open the project in RStudio or R
+- Install required packages and run the application locally
+
+For the source code, visit: <a href="https://github.com/ferol15/EROL.app.git" target="_blank">GitHub Repository</a>
+
+
     
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
