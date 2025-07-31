@@ -34,7 +34,7 @@ website:
     
     right: 
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
-        href: mailto:fatih.erol@yeditepe.edu.tr
+        href: mailto:fatiherol@uidaho.edu
       - text: "{{< iconify mdi twitter size=1.2em title='X (Twitter)' >}}"
         href: https://x.com/fatiherol_pols
         target: _blank
