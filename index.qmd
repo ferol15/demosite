@@ -11,7 +11,9 @@ about:
 
 ::: {#ppc}
 
-I am a Postdoctoral Fellow in Political Psychology in <a href="https://www.uidaho.edu/class/politics-and-philosophy" target="_blank"> the Department of Politics and Philosophy</a>, and <a href="https://www.uidaho.edu/class/research-creative-works/Society-Fellows" target="_blank"> the Idaho Society of Fellows</a>, in <a href="https://www.uidaho.edu/class" target="_blank"> the College of Letters, Arts and Social Sciences</a> at <a href="https://www.uidaho.edu/" target="_blank"> the University of Idaho</a>.
+
+
+I am a <a href="https://verso.uidaho.edu/esploro/profile/fatih_erol/overview" target="_blank"> Postdoctoral Fellow in Political Psychology</a> in the Department of Politics and Philosophy, and the Idaho Society of Fellows, in the College of Letters, Arts and Social Sciences at <a href="https://www.uidaho.edu/" target="_blank"> the University of Idaho</a>.
 
 My research spans several interconnected domains that bridge **biological** and **political science**. My work on **chronobiology** investigates how sleep patterns and circadian rhythms align with political ideology and civic participation across multiple countries and over time, connecting fundamental biological processes to political outcomes. Additionally, my research examines the alignment between **existential threats** and **ideological orientation**, as well as the connections between **polarization** and **democratic attitudes**.
 
