@@ -29,6 +29,8 @@ website:
         href: teaching.qmd
       - text: "Programming"
         href: programming.qmd
+      - text: "Contact"
+        href: contact.qmd
       - text: "Personal"
         href: personal.qmd
     
