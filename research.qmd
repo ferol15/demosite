@@ -12,7 +12,7 @@ link-external-newwindow: true
 <summary>Abstract</summary>
 Scholars have long assumed that alignment between citizens and elites strengthens democratic legitimacy, yet this relationship remains untested for affective polarization. This study introduces the concept of <i>affective polarization congruence</i> (the perceived emotional alignment between citizens and their party's representatives) and tests its causal effects on democratic attitudes through a novel experimental design. In a pre-registered experiment, U.S. partisans received manipulated feedback about whether their representatives' partisan affect exceeded, fell short of, or matched their own. Against theoretical expectations, participants in conditions portraying affective congruence as "healthy democratic responsiveness" showed significantly decreased support for democracy as a system of government. A composite measure combining democratic satisfaction and principled democratic support revealed similar erosion across multiple congruence conditions. These findings challenge conventional wisdom about representation, suggesting citizens may be growing weary of normalizing polarization, regardless of how it is framed. Even "democratically framed" emotional alignment appears to trigger democratic fatigue.
 </details>
-<a href="https://osf.io/k5y7d">Working Paper (May 2025)</a>
+<a href="https://osf.io/kjd9u/files/tn24r">Working Paper (October 2025)</a>
 
 ## Journal Articles
 
