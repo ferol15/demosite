@@ -1,41 +1,37 @@
 /*-- scss:defaults --*/
-
 $theme: "custom";
-
 // color system 
-
 $white:    #FFFFFF !default;
 $lightblue:  #000000 !default;
 $mediumblue:  #0077B6 !default;
 $dkblue:    #be0032 !default;
-
 // Navbar
 $navbar-bg: $dkblue !default;
 $navbar-fg: $white !default;
 $navbar-hl: $lightblue !default;
-
 // Links
 $link-color: $mediumblue !default;
 $link-decoration: none !default;
 $link-hover-color: $dkblue !default;
 $link-hover-decoration: underline !default;
-
 // fonts
-
 // $font-family-serif: "Garamond, sans-serif" !default;
 // $headings-font-family: $font-family-serif !default;
 // $headings-font-weight: 800 !default;
 // $navbar-font-family: $font-family-serif !default;
 // $toc-font-family: $font-family-serif !default;
-
-
 /*-- scss:rules --*/
+
+// Force sRGB to prevent oversaturated colors in Safari
+* {
+  -webkit-color-correction: sRGB;
+  color-profile: sRGB;
+}
 
 // Put all the icons in a single row in the hamburger menu
 .navbar-nav.navbar-nav-scroll.ms-auto {
     flex-direction: row;
 }
-
 .callout {
   background-color:$white;
   // color: $mediumblue; // text color
@@ -44,9 +40,6 @@ $link-hover-decoration: underline !default;
   margin-top: 0rem 0; // distance to text above and below box 
   margin-bottom: 0rem 0;
 }
-
 /*-- scss:functions --*/
-
 /*-- scss:mixins --*/
-
 /*-- scss:uses --*/
