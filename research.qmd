@@ -16,6 +16,13 @@ Does perceived emotional alignment between citizens and political elites strengt
 
 ## Journal Articles
 
+[6] **Erol, F.**, Micatka, N. K., & Ksiazkiewicz, A. (2026). Waking up to politics: How sleep quality relates to political participation.
+<i>Political Psychology</i>. DOI: <a href="https://doi.org/10.1111/pops.70124">10.1111/pops.70124</a> 
+<details>
+<summary>Abstract</summary>
+Getting restful sleep is essential to people's academic achievement, cognitive functioning, life satisfaction, mental and physical health, pro-sociality, and vigilance. Our study translates these insights for political science by examining the relationship of sleep quality with turnout and non-electoral participation across multiple countries in four major datasets. Using a multilevel approach, we find that getting good sleep is strongly linked with a higher likelihood of turnout. Conversely, we observe that poor sleep quality motivates greater non-electoral political participation. Additional analyses indicate that the previously documented curvilinear relationship between sleep duration and turnout emerges primarily among those with poor sleep quality, while duration shows no association with turnout among well-rested individuals, suggesting duration may serve a compensatory function when quality is compromised. We also find that these results are robust to asynchronous timing between sleep quality and civic participation measures. We argue that creating societies where high-quality sleep is accessible to the public is vital to the sustainability of democratic regimes.
+</details> <span>&#32;</span>
+
 [5] **Erol, F.**, Ecevit, Y. A., & Kocapınar, G. (2024). Polarization congruence and satisfaction with democracy: A multinational investigation. <i>Electoral Studies</i>. DOI: <a href="https://doi.org/10.1016/j.electstud.2024.102796">10.1016/j.electstud.2024.102796</a> 
 <details>
 <summary>Abstract</summary>
@@ -48,12 +55,6 @@ Building upon past findings on terrorism and individual-level politically conser
    
    
 ## Selected Research in Progress
-
-[5] **Erol, F.**, Ksiazkiewicz, A., & Micatka, N. K. Waking up to politics: How sleep quality relates to political participation.
-<details>
-<summary>Abstract</summary>
-Getting restful sleep is essential to people’s academic achievement, cognitive functioning, life satisfaction, mental and physical health, pro-sociality, and vigilance. Our study translates these insights for political science by examining the relationship of sleep quality with turnout and non-electoral participation across the fourteen countries in four major datasets. Using a multilevel approach, we find that getting good sleep is strongly linked with a higher likelihood of turnout, with sizeable effects. Conversely, we find that poor sleep quality motivates greater non-electoral political participation. Additional analyses contrast past work on sleep quantity and indicate greater relative explanatory power for sleep quality over quantity on turnout. We also find that these results are robust to asynchronous timing between sleep quality and civic participation measures.  We argue that creating societies where high-quality sleep is accessible to the public is vital to the sustainability of democratic regimes. 
-</details> <span>&#32;</span>
 
 [4] **Erol, F.**, Grillo, M. C., & Christman, S. D. Hands on politics: Unpacking the link between handedness and ideological orientation in a multilevel framework.
 <details>
