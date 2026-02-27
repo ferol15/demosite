@@ -73,11 +73,22 @@ website:
   
 format:
   html:
-    theme: 
-      - cosmo
-      - custom.scss
+    theme:
+      light:
+        - cosmo
+        - custom.scss
+      dark:
+        - darkly
+        - custom-dark.scss
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+        <script>
+          if (!localStorage.getItem('quarto-color-scheme')) {
+            localStorage.setItem('quarto-color-scheme', 'alternate');
+          }
+        </script>
 
 
 

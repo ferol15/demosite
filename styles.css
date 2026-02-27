@@ -1,5 +1,77 @@
 /* css styles */
 
+/* Particles background */
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+#content-overlay {
+  position: relative;
+  z-index: 1;
+  pointer-events: none;
+}
+
+#content-overlay a,
+#content-overlay button {
+  pointer-events: auto;
+}
+
+main.content {
+  position: relative;
+  z-index: 1;
+}
+
+.content-panel {
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.88);
+  border-radius: 6px;
+  padding: 1.2rem 1.6rem;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
+.about-contents {
+  background: rgba(255, 255, 255, 0.88);
+  border-radius: 6px;
+  padding: 1.2rem 1.6rem;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
+.about-entity {
+  background: rgba(255, 255, 255, 0.88);
+  border-radius: 6px;
+  padding: 1.2rem;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
+.quarto-about-jolla {
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.88);
+  border-radius: 6px;
+  padding: 1.5rem;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
+/* Dark mode — semi-transparent so particles glow through */
+body.quarto-dark .content-panel,
+body.quarto-dark .about-contents,
+body.quarto-dark .about-entity,
+body.quarto-dark .quarto-about-jolla {
+  background: rgba(34, 34, 34, 0.88) !important;
+  backdrop-filter: blur(3px) !important;
+  -webkit-backdrop-filter: blur(3px) !important;
+}
+
 details {
     margin-left: -0.75rem;
     margin-top: -0.75rem;

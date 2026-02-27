@@ -4,6 +4,8 @@ toc: true
 link-external-newwindow: true
 ---
 
+<div class="content-panel">
+
 ## Teaching Statement
 
 My teaching focuses on helping students develop a scientific approach to politics across all course levels. This involves three key elements: First, I emphasize scientific literacy by distinguishing social science from journalistic and rhetorical approaches, showing how we seek systematic patterns rather than explaining single events or advocating positions. Second, I demonstrate the value of scientific methods both for deepening understanding and informing effective public policy. Finally, I guide students in conducting their own research, both individually and collaboratively, transforming them from consumers to creators of political knowledge.
@@ -40,6 +42,13 @@ Through interactive learning experiences, hands-on research projects, and real-w
 - <a href="https://www.dropbox.com/scl/fi/6nhokohtpx8cd8i2d4ioa/IR-408-Syllabus.pdf?rlkey=3m6jch5rzxsbcwhipfv5dvqq8&st=0edx214i&dl=0" target="_blank"> **IR 408 Elections and Party Politics** </a> (Undergraduate)
     - Fall 2021
     
+</div>
+
+<span id="particles-js"></span>
+
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
 <script>

@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+$theme: "custom-dark";
+
+// Keep the same brand colors
+$navbar-bg:              #be0032 !default;
+$navbar-fg:              #ffffff !default;
+$navbar-hl:              #ffffff !default;
+
+// Links — lighter blue readable on dark bg
+$link-color:             #4fc3f7 !default;
+$link-decoration:        none !default;
+$link-hover-color:       #be0032 !default;
+$link-hover-decoration:  underline !default;
+
+/*-- scss:rules --*/
+
+// Force sRGB to prevent oversaturated colors in Safari
+* {
+  -webkit-color-correction: sRGB;
+  color-profile: sRGB;
+}
+
+// Keep icons in a single row in hamburger menu
+.navbar-nav.navbar-nav-scroll.ms-auto {
+  flex-direction: row;
+}
+
+.callout {
+  border-radius: 0.5rem;
+  margin-top: 0rem 0;
+  margin-bottom: 0rem 0;
+}
+
+/*-- scss:functions --*/
+/*-- scss:mixins --*/
+/*-- scss:uses --*/

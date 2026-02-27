@@ -5,6 +5,8 @@ link-external-newwindow: true
 
 ---
 
+<div class="content-panel">
+
 ## Physical Address
 
 334  Administration Building, 851 Campus Drive, University of Idaho, Moscow, ID 83844, US | [Google Maps](https://maps.app.goo.gl/ZMgrJGA7HiipYur88)
@@ -13,6 +15,13 @@ link-external-newwindow: true
 
 [fatiherol@uidaho.edu](mailto:fatiherol@uidaho.edu)
 
+
+</div>
+
+<span id="particles-js"></span>
+
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>

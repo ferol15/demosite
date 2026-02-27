@@ -4,6 +4,8 @@ toc: true
 link-external-newwindow: true
 ---
 
+<div class="content-panel">
+
 ## Teaching Tools
 
 To support hands-on learning, I have been developing an interactive web application, named  <a href="https://fatiherol-erol-app.hf.space/" target="_blank">**E**xperimental **R**esearch & **O**bservational **L**earning (**EROL**) Application</a>, (though currently in an experimental phase) that would allow students to conduct statistical analyses without programming barriers, making quantitative methods in political science more accessible across different technical backgrounds.
@@ -41,6 +43,13 @@ For the source code, visit: <a href="https://github.com/ferol15/EROL.app.git" ta
 
 
     
+</div>
+
+<span id="particles-js"></span>
+
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
 <script>

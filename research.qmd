@@ -5,6 +5,8 @@ link-external-newwindow: true
 ---
 
 
+<div class="content-panel">
+
 ## Working Papers
 
 [1] **Erol, F.**, & Justwan, F. (2026) Bridging the gap: How mass-elite affective polarization congruence affects democratic attitudes.\
@@ -106,6 +108,13 @@ Which parties use simple language in their election manifestoes, and do simple e
 This study examines how political parties in Turkey have embraced populism from the late Ottoman Empire to present day, challenging the notion that populism belongs to any single party or ideology. Through comparative historical analysis, we trace three key dimensions of populism—people-centrism, anti-elitism, and appeals to popular will—across Turkey's political spectrum. Our research reveals that Russian populism (Narodism) initially inspired late 19th-century Ottoman intellectuals, particularly the Committee of Union and Progress, who cultivated peasant populism in Turkey. The founders of the Turkish Republic later institutionalized these ideas through the Republican People's Party (CHP), making populism a defining feature of Turkish politics that persisted through democratic transition.
 Different political traditions have defined "the people" distinctly: center-right parties like the Democratic Party emphasized "people as sovereigns," the CHP in the 1970s focused on "common people" oppressed by economic elites, while Milli Görüş parties promoted "people as Islamic nation." The AK Party has synthesized these approaches, positioning itself as defender of Turkey's authentic people and oppressed Muslims globally. Elite definitions have similarly evolved based on parties' ideological positions and power status—from economic exploiters to civil-military bureaucracy to foreign powers and domestic collaborators. This historical pervasiveness across the ideological spectrum suggests that populist turns can emerge from various political crises, offering insights for understanding populism beyond Western European contexts and enriching comparative populism literature.
 </details> 
+
+</div>
+
+<span id="particles-js"></span>
+
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>

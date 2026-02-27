@@ -13,6 +13,11 @@ about:
 I am happily married to <a href="https://emineari.com" target="_blank"> Emine Arı</a>. Emine is a Research Associate and Adjunct Instructor at <a href="https://sgpp.arizona.edu" target="_blank"> the University of Arizona</a>. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior. If I happen to have sparse time, I enjoy angling and cycling.
 :::
 
+<span id="particles-js"></span>
+
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
 <script>
