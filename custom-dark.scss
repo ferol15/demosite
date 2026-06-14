@@ -31,6 +31,25 @@ $link-hover-decoration:  underline !default;
   margin-bottom: 0rem 0;
 }
 
+.cv-card {
+  border-color: rgba(255, 255, 255, 0.18);
+}
+.cv-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4);
+}
+.cv-cards .btn-primary {
+  background-color: #be0032;
+  border-color: #be0032;
+}
+.cv-cards .btn-primary:hover,
+.cv-cards .btn-primary:focus {
+  background-color: #d81b52;
+  border-color: #d81b52;
+}
+.cv-aside {
+  border-top-color: rgba(255, 255, 255, 0.18);
+}
+
 /*-- scss:functions --*/
 /*-- scss:mixins --*/
 /*-- scss:uses --*/

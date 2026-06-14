@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ferol15.github.io/demosite/personal.html</loc>
-    <lastmod>2026-02-27T23:29:27.701Z</lastmod>
+    <loc>https://ferol15.github.io/demosite/cv.html</loc>
+    <lastmod>2026-06-14T00:34:43.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ferol15.github.io/demosite/programming.html</loc>
+    <lastmod>2026-06-14T00:29:15.146Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ferol15.github.io/demosite/contact.html</loc>
+    <lastmod>2026-06-14T00:28:38.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ferol15.github.io/demosite/teaching.html</loc>
+    <lastmod>2026-06-14T00:28:59.372Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ferol15.github.io/demosite/research.html</loc>
+    <lastmod>2026-06-14T00:29:34.452Z</lastmod>
   </url>
   <url>
     <loc>https://ferol15.github.io/demosite/index.html</loc>
     <lastmod>2026-02-27T22:37:45.336Z</lastmod>
   </url>
   <url>
-    <loc>https://ferol15.github.io/demosite/research.html</loc>
-    <lastmod>2026-02-27T23:02:13.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ferol15.github.io/demosite/teaching.html</loc>
-    <lastmod>2026-02-27T23:02:12.947Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ferol15.github.io/demosite/contact.html</loc>
-    <lastmod>2026-02-27T23:02:14.685Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ferol15.github.io/demosite/programming.html</loc>
-    <lastmod>2026-02-27T23:02:15.479Z</lastmod>
+    <loc>https://ferol15.github.io/demosite/personal.html</loc>
+    <lastmod>2026-06-14T00:29:51.711Z</lastmod>
   </url>
 </urlset>

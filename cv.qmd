@@ -1,0 +1,44 @@
+---
+title: ""
+toc: false
+link-external-newwindow: true
+---
+
+````{=html}
+<div id="content-overlay">
+<div class="content-panel">
+<h2 class="cv-title">Curriculum Vitae</h2>
+<div class="cv-cards">
+  <div class="cv-card">
+    <h3>Academic CV</h3>
+    <div class="cv-card-actions">
+      <a class="btn btn-primary btn-sm" href="files/cv/Erol_Academic_CV.pdf" target="_blank" rel="noopener">View</a>
+      <a class="btn btn-outline-secondary btn-sm" href="files/cv/Erol_Academic_CV.pdf" download>Download</a>
+    </div>
+  </div>
+  <div class="cv-card">
+    <h3>Industry CV</h3>
+    <div class="cv-card-actions">
+      <a class="btn btn-primary btn-sm" href="files/cv/Erol_Industry_CV.pdf" target="_blank" rel="noopener">View</a>
+      <a class="btn btn-outline-secondary btn-sm" href="files/cv/Erol_Industry_CV.pdf" download>Download</a>
+    </div>
+  </div>
+</div>
+<p class="cv-aside">Here to recruit me? The two CVs above have you covered. Just passing through? Then please enjoy some professionally relevant procrastination: the <em>Friends</em> cast braving the job hunt. My actual work, after all, is more or less Chandler&rsquo;s &ldquo;data reconfiguration and statistical factoring.&rdquo; <a href="https://www.youtube.com/watch?v=3j2OlOrxEPE" target="_blank" rel="noopener">Watch the clip &#9654;</a></p>
+</div>
+</div>
+````
+
+<span id="particles-js"></span>
+
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C9REN6Q65E');
+</script>

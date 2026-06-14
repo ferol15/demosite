@@ -23,8 +23,7 @@ website:
       - text: "Research"
         href: research.qmd
       - text: "CV"
-        href: https://www.dropbox.com/scl/fi/ae789pbsxpbz86bilpq9u/Erol_CV.pdf?rlkey=rlbzsncg2d4a7a06g3m3cepno&st=ruuhgrbn&dl=0
-        target: _blank
+        href: cv.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "Programming"

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>personal – Fatih Erol</title>
+<title>cv – Fatih Erol</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -275,7 +276,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link active" href="./cv.html" aria-current="page"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
@@ -291,7 +292,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./personal.html" aria-current="page"> 
+    <a class="nav-link" href="./personal.html"> 
 <span class="menu-text">Personal</span></a>
   </li>  
 </ul>
@@ -342,26 +343,37 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
 
 <div id="content-overlay">
-<div class="quarto-about-jolla">
-  <img src="files/Ari_Erol_ID.png" class="about-image
-  round " style="height: 14rem; width: 14rem;">
- <header id="title-block-header" class="quarto-title-block"></header><div id="ppc2">
-<p>I am happily married to <a href="https://emineari.com" target="_blank"> Emine Arı</a>. Emine is an Adjunct Instructor at <a href="https://www.uidaho.edu" target="_blank"> the University of Idaho</a>. Emine’s research covers state of emergency, domestic and international conflicts, and electoral behavior. If I happen to have sparse time, I enjoy angling and cycling.</p>
-</div>  
+<div class="content-panel">
+<h2 class="cv-title anchored">Curriculum Vitae</h2>
+<div class="cv-cards">
+  <div class="cv-card">
+    <h3 class="anchored">Academic CV</h3>
+    <div class="cv-card-actions">
+      <a class="btn btn-primary btn-sm" href="files/cv/Erol_Academic_CV.pdf" target="_blank" rel="noopener">View</a>
+      <a class="btn btn-outline-secondary btn-sm" href="files/cv/Erol_Academic_CV.pdf" download="">Download</a>
+    </div>
+  </div>
+  <div class="cv-card">
+    <h3 class="anchored">Industry CV</h3>
+    <div class="cv-card-actions">
+      <a class="btn btn-primary btn-sm" href="files/cv/Erol_Industry_CV.pdf" target="_blank" rel="noopener">View</a>
+      <a class="btn btn-outline-secondary btn-sm" href="files/cv/Erol_Industry_CV.pdf" download="">Download</a>
+    </div>
+  </div>
 </div>
-
+<p class="cv-aside">Here to recruit me? The two CVs above have you covered. Just passing through? Then please enjoy some professionally relevant procrastination: the <em>Friends</em> cast braving the job hunt. My actual work, after all, is more or less Chandler’s “data reconfiguration and statistical factoring.” <a href="https://www.youtube.com/watch?v=3j2OlOrxEPE" target="_blank" rel="noopener">Watch the clip ▶</a></p>
+</div>
 </div>
 <p><span id="particles-js"></span></p>
 <script src="js/particles.js"></script>
 <script src="js/app.js"></script>
-<!-- Google tag (gtag.js) -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -370,7 +382,6 @@ ul.task-list li input[type="checkbox"] {
 
   gtag('config', 'G-C9REN6Q65E');
 </script>
-
 
 
 
@@ -390,6 +401,13 @@ ul.task-list li input[type="checkbox"] {
       window.document.body.appendChild(a);
     }
     setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -468,6 +486,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -40,6 +40,52 @@ $link-hover-decoration: underline !default;
   margin-top: 0rem 0; // distance to text above and below box 
   margin-bottom: 0rem 0;
 }
+
+.cv-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.cv-card {
+  flex: 1 1 280px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  padding: 1.3rem 1.5rem;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+.cv-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+.cv-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+}
+.cv-card-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+.cv-cards .btn-primary {
+  background-color: $dkblue;
+  border-color: $dkblue;
+}
+.cv-cards .btn-primary:hover,
+.cv-cards .btn-primary:focus {
+  background-color: #9c0029;
+  border-color: #9c0029;
+}
+.cv-aside {
+  margin-top: 1.4rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 0.92rem;
+  font-style: italic;
+}
+.cv-aside a {
+  font-weight: 600;
+  font-style: normal;
+}
 /*-- scss:functions --*/
 /*-- scss:mixins --*/
 /*-- scss:uses --*/

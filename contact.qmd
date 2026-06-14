@@ -5,6 +5,7 @@ link-external-newwindow: true
 
 ---
 
+<div id="content-overlay">
 <div class="content-panel">
 
 ## Physical Address
@@ -16,6 +17,7 @@ link-external-newwindow: true
 [fatiherol@uidaho.edu](mailto:fatiherol@uidaho.edu)
 
 
+</div>
 </div>
 
 <span id="particles-js"></span>

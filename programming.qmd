@@ -4,6 +4,7 @@ toc: true
 link-external-newwindow: true
 ---
 
+<div id="content-overlay">
 <div class="content-panel">
 
 ## Teaching Tools
@@ -43,6 +44,7 @@ For the source code, visit: <a href="https://github.com/ferol15/EROL.app.git" ta
 
 
     
+</div>
 </div>
 
 <span id="particles-js"></span>
