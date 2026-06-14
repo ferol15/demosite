@@ -17,7 +17,9 @@
 }
 
 #content-overlay a,
-#content-overlay button {
+#content-overlay button,
+#content-overlay details,
+#content-overlay summary {
   pointer-events: auto;
 }
 
@@ -73,9 +75,66 @@ body.quarto-dark .quarto-about-jolla {
 }
 
 details {
-    margin-left: -0.75rem;
-    margin-top: -0.75rem;
-    margin-bottom: -0.75rem;
-    padding: .8em;
-    border-radius: 0px
+    margin-top: 0.35rem;
+    margin-bottom: 1.1rem;
+}
+
+summary {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    width: fit-content;
+    font-weight: 600;
+    font-size: 0.85em;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #2c5f8a;
+    padding: 0.15rem 0.55rem;
+    border-radius: 999px;
+    border: 1px solid rgba(44, 95, 138, 0.35);
+    list-style: none;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+summary::before {
+    content: "\203A";
+    font-size: 1.1em;
+    line-height: 1;
+    transition: transform 0.15s ease;
+}
+
+details[open] > summary::before {
+    transform: rotate(90deg);
+}
+
+summary:hover {
+    background: rgba(44, 95, 138, 0.1);
+}
+
+details[open] {
+    background: rgba(44, 95, 138, 0.05);
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+}
+
+details[open] > summary {
+    margin-bottom: 0.5rem;
+}
+
+body.quarto-dark summary {
+    color: #8ec5ff;
+    border-color: rgba(142, 197, 255, 0.4);
+}
+
+body.quarto-dark summary:hover {
+    background: rgba(142, 197, 255, 0.15);
+}
+
+body.quarto-dark details[open] {
+    background: rgba(142, 197, 255, 0.08);
 }

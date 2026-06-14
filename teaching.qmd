@@ -14,33 +14,34 @@ Through interactive learning experiences, hands-on research projects, and real-w
 
 ## List of Courses
 
-##### At <a href="https://sgpp.arizona.edu" target="_blank"> **the University of Idaho** </a> (as a Postdoctoral Fellow)
+##### At <a href="https://www.uidaho.edu" target="_blank"> **the University of Idaho** </a> (as a Postdoctoral Fellow)
 
-- <a href="https://www.dropbox.com/scl/fi/p7caisme0hofe39xwis17/POLS-4740-Public-Opinion-and-Political-Behavior-Erol-FA25.pdf?rlkey=vff4ssr7qlhngbbc3h4vpyf23&st=40u4hfmt&dl=0" target="_blank"> **POLS 4740 Public Opinion and Political Behavior** </a> (Undergraduate) | <a href="https://www.dropbox.com/scl/fi/bwjilhwebq4klx0xwqd16/POLS-4740-Ghost-Syllabus.pdf?rlkey=2k53pdpd9jmalzbxy7grwavyu&st=afambxdf&dl=0" target="_blank">  **Ghost Syllabus Component** </a>
+- **POLS 4740 Public Opinion and Political Behavior** (Undergraduate) <a href="files/syllabi/pols4740.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pols4740.pdf" download>{{< iconify bi download >}} Download</a>
+    - Ghost Syllabus Component <a href="files/syllabi/pols4740-full.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pols4740-full.pdf" download>{{< iconify bi download >}} Download</a>
     - Fall 2025
 
 ##### At <a href="https://sgpp.arizona.edu" target="_blank"> **the University of Arizona** </a> (as a Research Social Scientist)
 
-- <a href="https://www.dropbox.com/scl/fi/ng1mtdsy7hboavl5ebhx8/POL-397B-Spring-2025-Syllabus.pdf?rlkey=itwwlp2wuehjjbndmwdbvd0wm&st=9j8v1x2l&dl=0" target="_blank"> **POL/SOC 297B/397B The Origins of Data in Politics and Policy** </a> (Undergraduate)
+- **POL/SOC 297B/397B The Origins of Data in Politics and Policy** (Undergraduate) <a href="files/syllabi/pol397b.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pol397b.pdf" download>{{< iconify bi download >}} Download</a>
     - Spring 2024, Spring 2025
 
 ##### At <a href="https://iibf.yeditepe.edu.tr/en/political-science-and-international-relations-department-en" target="_blank"> **Yeditepe University** </a> (as an Assistant Professor)
 
-- <a href="https://www.dropbox.com/scl/fi/9axi8yxta4qkb9pvfqjpk/POLS-624-Syllabus.pdf?rlkey=q73cdbopv1fs1v7xoee8b65bo&st=h4sso0ba&dl=0" target="_blank"> **POLS 624 Quantitative Methods and Statistics** </a> (Graduate)
+- **POLS 624 Quantitative Methods and Statistics** (Graduate) <a href="files/syllabi/pols624.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pols624.pdf" download>{{< iconify bi download >}} Download</a>
     - Spring 2023
-    
-- <a href="https://www.dropbox.com/scl/fi/r1be8tz5zzg5kuujfjyoy/PSIR_480.pdf?rlkey=jaekplrt8unqipzz2sxt4bfkn&st=3s3uwu9z&dl=0" target="_blank"> **PSIR 480 Applied Research in Political Science** </a> (Undergraduate)
+
+- **PSIR 480 Applied Research in Political Science** (Undergraduate) <a href="files/syllabi/psir480.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/psir480.pdf" download>{{< iconify bi download >}} Download</a>
     - Spring 2023
-    
-- <a href="https://www.dropbox.com/scl/fi/5484hl78dsap4nr3sl3wj/RSCH-410-Syllabus.pdf?rlkey=tbij7sma2wwasvfl92igtffln&st=7f7vka3n&dl=0" target="_blank"> **RSCH 410 Scientific Research Methods** </a> (Undergraduate; Service-course)
+
+- **RSCH 410 Scientific Research Methods** (Undergraduate; Service-course) <a href="files/syllabi/rsch410.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/rsch410.pdf" download>{{< iconify bi download >}} Download</a>
     - Fall 2022, Spring 2023
 
-- <a href="https://www.dropbox.com/scl/fi/kjmq5tu48qea3fqwecpn5/PSIR_101-Syllabus.pdf?rlkey=aem3kt3jwhnnacbeteh5ze4er&st=llqzkgq6&dl=0" target="_blank"> **PSIR 101 Introduction to Political Science** </a> (Undergraduate)
+- **PSIR 101 Introduction to Political Science** (Undergraduate) <a href="files/syllabi/psir101.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/psir101.pdf" download>{{< iconify bi download >}} Download</a>
     - Fall 2022, Spring 2023
 
-##### At <a href="https://iibf.yeditepe.edu.tr/en/political-science-and-international-relations-department-en" target="_blank"> **Istanbul Bilgi University** </a> (as an Adjunct Lecturer)
+##### At <a href="https://www.bilgi.edu.tr/en/academic/faculty-of-social-sciences-and-humanities/international-relations/" target="_blank"> **Istanbul Bilgi University** </a> (as an Adjunct Lecturer)
 
-- <a href="https://www.dropbox.com/scl/fi/6nhokohtpx8cd8i2d4ioa/IR-408-Syllabus.pdf?rlkey=3m6jch5rzxsbcwhipfv5dvqq8&st=0edx214i&dl=0" target="_blank"> **IR 408 Elections and Party Politics** </a> (Undergraduate)
+- **IR 408 Elections and Party Politics** (Undergraduate) <a href="files/syllabi/ir408.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/ir408.pdf" download>{{< iconify bi download >}} Download</a>
     - Fall 2021
     
 </div>
