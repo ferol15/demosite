@@ -1,8 +1,24 @@
 ---
 title: "Programming"
-toc: true 
+toc: true
 link-external-newwindow: true
+format:
+  html:
+    include-after-body:
+      text: |
+        <span id="particles-js"></span>
+        <script src="js/particles.js"></script>
+        <script src="js/app.js"></script>
 ---
+
+<style>
+#quarto-margin-sidebar {
+  pointer-events: none;
+}
+#quarto-margin-sidebar a {
+  pointer-events: auto;
+}
+</style>
 
 <div id="content-overlay">
 <div class="content-panel">
@@ -46,11 +62,6 @@ For the source code, visit: <a href="https://github.com/ferol15/EROL.app.git" ta
     
 </div>
 </div>
-
-<span id="particles-js"></span>
-
-<script src="js/particles.js"></script>
-<script src="js/app.js"></script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>

@@ -341,8 +341,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link active" data-scroll-target="#journal-articles">Journal Articles</a></li>
+  <li><a href="#books" id="toc-books" class="nav-link" data-scroll-target="#books">Books</a></li>
+  <li><a href="#book-chapters" id="toc-book-chapters" class="nav-link" data-scroll-target="#book-chapters">Book Chapters</a></li>
+  <li><a href="#other-works-in-turkish" id="toc-other-works-in-turkish" class="nav-link" data-scroll-target="#other-works-in-turkish">Other Works in Turkish</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -367,8 +376,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div id="content-overlay">
-<div class="content-panel">
+<style>
+main.content {
+  background: rgba(255, 255, 255, 0.88);
+  border-radius: 6px;
+  padding: 1.2rem 1.6rem;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  pointer-events: none;
+}
+main.content a,
+main.content button,
+main.content details,
+main.content summary {
+  pointer-events: auto;
+}
+body.quarto-dark main.content {
+  background: rgba(34, 34, 34, 0.88);
+}
+#quarto-margin-sidebar {
+  pointer-events: none;
+}
+#quarto-margin-sidebar a {
+  pointer-events: auto;
+}
+</style>
 <section id="journal-articles" class="level2">
 <h2 class="anchored" data-anchor-id="journal-articles">Journal Articles</h2>
 [6] <strong>Erol, F.</strong>, Micatka, N. K., &amp; Ksiazkiewicz, A. (2026). Waking up to politics: How sleep quality relates to political participation. <i>Political Psychology</i>. DOI: <a href="https://doi.org/10.1111/pops.70124">10.1111/pops.70124</a>
@@ -448,20 +480,14 @@ Abstract
 </summary>
 This study examines how political parties in Turkey have embraced populism from the late Ottoman Empire to present day, challenging the notion that populism belongs to any single party or ideology. Through comparative historical analysis, we trace three key dimensions of populism—people-centrism, anti-elitism, and appeals to popular will—across Turkey’s political spectrum. Our research reveals that Russian populism (Narodism) initially inspired late 19th-century Ottoman intellectuals, particularly the Committee of Union and Progress, who cultivated peasant populism in Turkey. The founders of the Turkish Republic later institutionalized these ideas through the Republican People’s Party (CHP), making populism a defining feature of Turkish politics that persisted through democratic transition. Different political traditions have defined “the people” distinctly: center-right parties like the Democratic Party emphasized “people as sovereigns,” the CHP in the 1970s focused on “common people” oppressed by economic elites, while Milli Görüş parties promoted “people as Islamic nation.” The AK Party has synthesized these approaches, positioning itself as defender of Turkey’s authentic people and oppressed Muslims globally. Elite definitions have similarly evolved based on parties’ ideological positions and power status—from economic exploiters to civil-military bureaucracy to foreign powers and domestic collaborators. This historical pervasiveness across the ideological spectrum suggests that populist turns can emerge from various political crises, offering insights for understanding populism beyond Western European contexts and enriching comparative populism literature.
 </details>
-</section>
-</div>
-</div>
-<p><span id="particles-js"></span></p>
 <script>
-  document.querySelectorAll('#content-overlay a[href^="http"]').forEach(function (link) {
+  document.querySelectorAll('main.content a[href^="http"]').forEach(function (link) {
     if (link.host !== window.location.host) {
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
     }
   });
 </script>
-<script src="js/particles.js"></script>
-<script src="js/app.js"></script>
 <!-- Google tag (gtag.js) -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-C9REN6Q65E"></script>
 <script>
@@ -473,6 +499,7 @@ This study examines how political parties in Turkey have embraced populism from 
 </script>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -908,6 +935,9 @@ All rights reserved.</p>
 </div>
   </div>
 </footer>
+<span id="particles-js"></span>
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
 
 
 
