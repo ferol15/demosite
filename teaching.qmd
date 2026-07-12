@@ -46,6 +46,12 @@ Through interactive learning experiences, hands-on research projects, and real-w
 
 ##### At <a href="https://www.uidaho.edu" target="_blank"> **the University of Idaho** </a> (as a Postdoctoral Fellow)
 
+- **POLS 5040-02 Special Topics: Decision-Making in Politics** (Graduate) <a href="files/syllabi/pols5040.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pols3850.pdf" download>{{< iconify bi download >}} Download</a>
+    - Spring 2026
+
+- **POLS 3850 Political Psychology** (Undergraduate) <a href="files/syllabi/pols4740.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pols3850.pdf" download>{{< iconify bi download >}} Download</a>
+    - Spring 2026
+
 - **POLS 4740 Public Opinion and Political Behavior** (Undergraduate) <a href="files/syllabi/pols4740.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pols4740.pdf" download>{{< iconify bi download >}} Download</a>
     - Ghost Syllabus Component <a href="files/syllabi/pols4740-full.pdf" target="_blank">{{< iconify bi eye >}} View</a> <a href="files/syllabi/pols4740-full.pdf" download>{{< iconify bi download >}} Download</a>
     - Fall 2025
