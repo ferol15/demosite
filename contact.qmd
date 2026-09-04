@@ -10,9 +10,11 @@ link-external-newwindow: true
 
 ## Physical Address
 
+MZES A5, 6 A316, Mannheim, 68159, Germany | [Google Maps](https://maps.app.goo.gl/BS6qpmMLs5Azks36A)
+
 ## Email Address
 
-[erol.fatih@windowslive.com](mailto:erol.fatih@windowslive.com)
+[fatih.erol.gast@uni-mannheim.de](mailto:fatih.erol.gast@uni-mannheim.de)
 
 
 </div>
