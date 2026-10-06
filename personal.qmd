@@ -12,7 +12,7 @@ about:
 <div id="content-overlay">
 
 ::: {#ppc2}
-I am happily married to <a href="https://emineari.com" target="_blank"> Emine Arı</a>. Emine is an incoming Postdoctoral Researcher at the University of Mannheim. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior. If I happen to have sparse time, I enjoy angling and cycling.
+I am happily married to <a href="https://emineari.com" target="_blank"> Emine Arı</a>. Emine is a Postdoctoral Researcher at the University of Mannheim. Emine's research covers state of emergency, domestic and international conflicts, and electoral behavior. If I happen to have sparse time, I enjoy angling and cycling.
 :::
 
 </div>
