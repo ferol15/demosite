@@ -25,14 +25,21 @@
     "href": "contact.html",
     "title": "Fatih Erol",
     "section": "",
-    "text": "MZES A5, 6 A316, Mannheim, 68159, Germany | Google Maps\n\n\n\nfatih.erol.gast@uni-mannheim.de"
+    "text": "MZES A5, 6 A316, Mannheim, 68159, Germany | Google Maps\n\n\n\nfatih.erol@uni-mannheim.de"
+  },
+  {
+    "objectID": "contact.html#physical-address",
+    "href": "contact.html#physical-address",
+    "title": "Fatih Erol",
+    "section": "",
+    "text": "MZES A5, 6 A316, Mannheim, 68159, Germany | Google Maps"
   },
   {
     "objectID": "contact.html#email-address",
     "href": "contact.html#email-address",
     "title": "Fatih Erol",
     "section": "",
-    "text": "fatih.erol.gast@uni-mannheim.de"
+    "text": "fatih.erol@uni-mannheim.de"
   },
   {
     "objectID": "teaching.html",
@@ -95,7 +102,7 @@
     "href": "index.html",
     "title": "Fatih Erol",
     "section": "",
-    "text": "I am a Visiting Researcher at the Mannheim Center for European Social Research (MZES) and an incoming Postdoctoral Researcher at the Chair of Political Science, International Relations at the University of Mannheim. Previously, I was a Postdoctoral Fellow in political psychology at the University of Idaho, and before that a Research Social Scientist and Lab Manager at the University of Arizona.\nMy research spans several interconnected domains that bridge biological and political science. My work on chronobiology investigates how sleep patterns and circadian rhythms align with political ideology and civic participation across multiple countries and over time, connecting fundamental biological processes to political outcomes. Additionally, my research examines the alignment between existential threats and ideological orientation, as well as the connections between polarization and democratic attitudes.\nMy methodological expertise extends to experimental research, survey methodology, advanced regression modeling (multilevel modeling [with post-stratification], structural equation modeling, categorical data analysis, and several quasi-experimental designs), and text-as-data approaches, along with hands-on experience with physiological data collection and analysis (such as skin conductance and functional magnetic resonance imaging).\n\nI have extensive experience with R and Stata. I am comfortable programming advanced experiments and surveys in Qualtrics using JavaScript (including choice-based conjoint experiments and implicit association tests), creating interactive data analysis and visualization dashboards with R Shiny, and employing Python through PsychoPy for experimental programming. I have also utilized Unix and FSL for neuroimaging data analysis in interdisciplinary research projects."
+    "text": "I am a Postdoctoral Researcher at the Chair of Political Science, International Relations and also a Visiting Researcher at the Mannheim Center for European Social Research (MZES) at the University of Mannheim. Previously, I was a Postdoctoral Fellow in political psychology at the University of Idaho, and before that a Research Social Scientist and Lab Manager at the University of Arizona.\nMy research spans several interconnected domains that bridge biological and political science. My work on chronobiology investigates how sleep patterns and circadian rhythms align with political ideology and civic participation across multiple countries and over time, connecting fundamental biological processes to political outcomes. Additionally, my research examines the alignment between existential threats and ideological orientation, as well as the connections between polarization and democratic attitudes.\nMy methodological expertise extends to experimental research, survey methodology, advanced regression modeling (multilevel modeling [with post-stratification], structural equation modeling, categorical data analysis, and several quasi-experimental designs), and text-as-data approaches, along with hands-on experience with physiological data collection and analysis (such as skin conductance and functional magnetic resonance imaging).\n\nI have extensive experience with R and Stata. I am comfortable programming advanced experiments and surveys in Qualtrics using JavaScript (including choice-based conjoint experiments and implicit association tests), creating interactive data analysis and visualization dashboards with R Shiny, and employing Python through PsychoPy for experimental programming. I have also utilized Unix and FSL for neuroimaging data analysis in interdisciplinary research projects."
   },
   {
     "objectID": "personal.html",
@@ -103,12 +110,5 @@
     "title": "Fatih Erol",
     "section": "",
     "text": "I am happily married to  Emine Arı. Emine is an incoming Postdoctoral Researcher at the University of Mannheim. Emine’s research covers state of emergency, domestic and international conflicts, and electoral behavior. If I happen to have sparse time, I enjoy angling and cycling."
-  },
-  {
-    "objectID": "contact.html#physical-address",
-    "href": "contact.html#physical-address",
-    "title": "Fatih Erol",
-    "section": "",
-    "text": "MZES A5, 6 A316, Mannheim, 68159, Germany | Google Maps"
   }
 ]
