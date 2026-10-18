@@ -34,12 +34,12 @@ website:
         href: personal.qmd
     
     right: 
-      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
-        href: mailto:fatih.erol.gast@uni-mannheim.de
-      - text: "{{< iconify mdi twitter size=1.2em title='X (Twitter)' >}}"
+      - text: "{{< iconify bi envelope size=1em title='E-mail' >}}"
+        href: mailto:fatih.erol@uni-mannheim.de
+      - text: "{{< iconify mdi twitter size=1em title='X (Twitter)' >}}"
         href: https://x.com/fatiherol_pols
         target: _blank
-      - text: "{{< iconify ph butterfly-bold size=1.2em title='Bluesky' >}}"
+      - text: "{{< iconify ph butterfly-bold size=1em title='Bluesky' >}}"
         href: https://bsky.app/profile/fatiherol.bsky.social
         rel: me
         target: _blank
@@ -49,14 +49,14 @@ website:
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?hl=en&user=slPu75UAAAAJ
         target: _blank
-      - text: "{{< iconify simple-icons linkedin size=1.2em title='LinkedIn' >}}"
+      - text: "{{< iconify simple-icons linkedin size=1em title='LinkedIn' >}}"
         href: https://linkedin.com/in/fatih-erol-pols
         target: _blank
-      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+      - text: "{{< iconify bi github size=1em title='GitHub' >}}"
         href: https://github.com/ferol15
         rel: me
         target: _blank
-      - text: "{{< iconify simple-icons huggingface size=1.2em title='Hugging Face' >}}"
+      - text: "{{< iconify simple-icons huggingface size=1em title='Hugging Face' >}}"
         href: https://huggingface.co/fatiherol
         rel: me
         target: _blank
